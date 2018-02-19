@@ -1,0 +1,30 @@
+* {
+  font-family: helvetica, sans-serif;
+}
+
+.RedClass {
+  color: red;
+}
+
+#BlueClass {
+  color: Blue;
+}
+
+p {
+  color: blue;
+  font:helvetica;
+  size: 16px;
+}
+
+h2 {
+  color: green;
+  background: orange;
+}
+
+ul {
+  background-color: yellow;
+}
+
+ol {
+  background-color: teal;
+}
